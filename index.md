@@ -2,8 +2,21 @@
 title: "History Blog"
 ---
 
-<div style="width:100%;height:20%;background-color:#157f71;">
-  <h1>Blog Archive</h1>
+<style>
+  .header {
+    padding:40px;
+    text-align: left;
+    background: #157f71;
+    color: white;
+  }
+  .header h1 {
+    font-size:20px;
+  }
+</style>
+
+
+<div class="header">
+  <h1>Yes</h1>
 </div>
 <br><br>
 
