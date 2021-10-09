@@ -4,6 +4,7 @@ title: "History Blog"
 
 
 # Blog Archive
+<br><br>
 
-<img src="assets/pres-bush-patriot.jpg" style="width:30%;height:20%;">
+<label>Hello</label><img id="bush" src="assets/pres-bush-patriot.jpg" style="width:30%;height:20%;">
 
