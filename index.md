@@ -5,4 +5,4 @@ title: "History Blog"
 
 # Blog Archive
 
-![Bad human](/assets/pres-bush-patriot.jpg =50x50)
+<img src="assets/pres-bush-patriot.png" width="50" height="50">
