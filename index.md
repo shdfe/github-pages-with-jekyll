@@ -8,7 +8,7 @@ title: "History Blog"
     text-align: left;
     background: #157f71;
     color: white;">
-  <h1 style="font-size:20px;">Yes</h1>
+  <h1 style="font-size:40px;">Yes</h1>
 </div>
 <br><br>
 
