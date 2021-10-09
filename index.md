@@ -1,5 +1,4 @@
 ---
-title: "Welcome to my history blog"
+title: "History Blog"
 ---
-
-I'm glad you are here. I plan to talk about ...
+##Blog Archive
